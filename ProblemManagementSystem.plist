@@ -13,6 +13,24 @@
 					<key>url</key>
 					<string>https://zji2.creaway.com.cn/upload/work/ProblemManagementSystem.ipa</string>
 				</dict>
+				
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://e.hiphotos.baidu.com/image/pic/item/562c11dfa9ec8a13aff433b3fa03918fa1ecc0f3.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://e.hiphotos.baidu.com/image/pic/item/c83d70cf3bc79f3dd43c5964b7a1cd11738b2980.jpg</string>
+				</dict>
+				
 			</array>
 			<key>metadata</key>
 			<dict>
